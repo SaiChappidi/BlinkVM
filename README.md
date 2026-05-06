@@ -2,9 +2,6 @@
 
 A microVM runtime in C built on Linux KVM.
 
-This project is a serious systems programming foundation for a resume-grade
-virtualization project.
-
 The current codebase provides:
 
 - KVM initialization (`/dev/kvm`, VM creation, vCPU creation)
